@@ -215,9 +215,8 @@ git push origin feature/NewFeature
 
 - 💼 Full Stack Developer
 - 🌱 Passionate about Web Development & AI
-- 📧 Email: your-email@example.com
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/yourusername
+- 📧 Email: sharmar1034@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/rohit-kumar-648416318/
 
 ---
 
