@@ -11,7 +11,6 @@ The Doctor Appointment Booking System is a full-stack web application that allow
 The system improves the traditional appointment booking process by reducing manual work, minimizing scheduling conflicts, and providing a user-friendly experience.
 
 ---
-
 ## ✨ Features
 
 ### 👤 Patient
