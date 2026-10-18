@@ -3,7 +3,6 @@
 A modern **Doctor Appointment Booking System** built to simplify the appointment scheduling process for patients, doctors, and administrators. The platform provides a seamless interface for booking appointments, managing doctors, and tracking patient records.
 
 ---
-
 ## 📌 Overview
 
 The Doctor Appointment Booking System is a full-stack web application that allows patients to book appointments online while enabling doctors and administrators to efficiently manage schedules and appointments.
